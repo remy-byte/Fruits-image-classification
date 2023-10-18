@@ -71,6 +71,9 @@ transform_method = transforms.Compose([
 # in utils.py file that returns the mean and standard deviation for the image dataset.
 ```
 
+![image](https://github.com/remy-byte/Fruits-image-classification/assets/80782419/119d8456-7182-48ac-b3b7-3ecfb9b6966e)
+
+
 The main hyperparameters declared are:
 ```python
 num_classes = 5
