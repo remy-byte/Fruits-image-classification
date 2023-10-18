@@ -23,9 +23,9 @@ Clone the repository
 ```bash
 git clone 
 ```
-The way of running the model right now is through running inferences I've already written on a notebook file which you will find at this location of the project
+The way of running the model right now is through running inferences I've already written on a notebook file which you will find in the pytorch_utils folder.
 ```bash
-cd .......
+model_testing.ipynb
 ```
 Later updates to the project will enable the possibility to run the model on a live webcam feed.
 ## The development of the project and issues I've ran into
