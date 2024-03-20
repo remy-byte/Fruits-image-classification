@@ -1,4 +1,4 @@
-# Fruits Classification [IN PROGRESS]
+# Fruits Classification 
 
 Fruits image classification is a project where the main goal is having a clear classification of the images you display by images, or by a live webcam. The project was done in pytorch which is a framework written in python and as a model architecture is built around VGG-16 architecture. 
 
